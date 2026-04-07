@@ -32,9 +32,9 @@ This is a simple Python project that generates random HEX color codes using loop
 python Project_1.py
 ```
 ## 🧠 What I learned
--Python loops (for loop)
--String handling
--Random module usage
--Function creation
--Basic project structure
+- Python loops (for loop)
+- String handling
+- Random module usage
+- Function creation
+- Basic project structure
 
